@@ -1,5 +1,5 @@
 # michelinfood
-Solving a routing problem to efficiently try all Michelin restaurants in Singapore
+Data project: Solving a routing problem to efficiently try all Michelin restaurants in Singapore
 
 Basically:
 (i) Scrape addresses of Michelin-rated restaurants from Michelin website

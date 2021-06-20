@@ -1,4 +1,4 @@
-# michelinfood
+# michelin_food_schedule
 Data project: Solving a routing problem to efficiently inspect Michelin restaurants in Singapore
 
 See pdf for findings.
